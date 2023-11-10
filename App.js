@@ -8,7 +8,7 @@ export default function App() {
   let x;
   return (
     <View style={styles.container}>
-      <Onboarding />
+      <Dashboard />
     </View>
   );
 }
