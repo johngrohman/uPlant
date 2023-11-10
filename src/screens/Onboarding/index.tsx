@@ -1,8 +1,8 @@
 import { View, Text, ImageBackground, StyleSheet, Dimensions } from 'react-native'
 import background from '../../../assets/background.png'
 
-screenWidth = Dimensions.get('window').width;
-screenHeight = Dimensions.get('window').height;
+const screenWidth = Dimensions.get('window').width;
+const screenHeight = Dimensions.get('window').height;
 
 export default function Onboarding() {
     return (
