@@ -1,3 +1,6 @@
-# uPlant
+Getting the app started with the iOS simulator
 
-A plant tracker app
+```
+expo start
+i
+```
