@@ -1,3 +1,4 @@
+# Frontend
 frontend/node_modules/
 frontend/.expo/
 frontend/dist/
@@ -9,6 +10,9 @@ frontend/*.key
 frontend/*.mobileprovision
 frontend/*.orig.*
 frontend/web-build/
+
+# Backend
+backend/venv/
 
 # macOS
 .DS_Store
